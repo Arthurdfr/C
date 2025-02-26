@@ -1,0 +1,7 @@
+A + B
+A x B
+C + TD
+A - B
+-A x B
+A x TD
+-B x TD
